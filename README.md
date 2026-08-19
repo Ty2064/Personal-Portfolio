@@ -1,30 +1,28 @@
-# Portifolio
+#Personal Portfolio
 
-🎓 Bacharelando em Sistemas de Informação
-💻 Interessado em Desenvolvimento de Software, Backend, Redes e Inteligência Artificial
+An example of a modern and responsive personal portfolio, designed to present professional information, skills, projects, and contact details in a simple and organized way.
 
-Atualmente estou construindo minha base em tecnologia por meio de estudos, projetos próprios e experimentação prática. Meu objetivo é transformar os conhecimentos adquiridos em projetos funcionais e desenvolver experiência profissional na área de TI.
+The project was developed as a portfolio base structure that can be customized for different professional profiles, students, and developers.
 
-🚀 Sobre mim
-{
-    🎓 Bacharelado em Sistemas de Informação
-    🐍 Estudando Python
-    🌐 Estudando HTML, CSS, JavaScript e TypeScript
-    🔧 Aprendendo Git e GitHub
-    🖥️ Explorando desenvolvimento Frontend e Backend
-    🌐 Estudando Redes de Computadores
-    🤖 Interesse em Inteligência Artificial e automação
-    🛠️ Desenvolvendo projetos próprios para aplicar meus conhecimentos
-}
-📂 Projetos
-🤖 Hermes Agent
+#About the Project
 
-Projeto relacionado a customização do agente de IA Hermes executado localmente, explorando automação, ferramentas, modelos de linguagem e integração com diferentes recursos.
+#Objective
 
-Tecnologias: Python, IA, CLI, Git/GitHub, Tauri, HTML, CSS
+The objective of this project is to provide an initial structure for a personal portfolio that can be adapted by different professionals, students, and developers.
 
-💧 HydroCálculo
+The proposal is to maintain a simple, organized, and responsive structure, allowing new projects, experiences, and information to be added as the portfolio evolves.
 
-Projeto voltado à estimativa do consumo de água associado ao uso de sistemas de Inteligência Artificial, relacionando variáveis como utilização, tempo de inferência e consumo hídrico.
+This portfolio follows a minimalist, organized, and responsive approach, focusing on presenting key information clearly and making navigation easy for visitors.
 
-Tecnologias: HTML, CSS, JavaScript
+- Main Features
+- Clear information organization
+- Simple and intuitive navigation
+- Responsive design
+- Project showcase
+- Skills section
+- Professional information
+- Contact information
+- Easy customization
+- Compatibility with mobile devices and desktops
+
+
